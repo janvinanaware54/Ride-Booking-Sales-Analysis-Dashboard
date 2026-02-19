@@ -62,5 +62,5 @@ Dashboard Design
 Business Insight Generation
 
 📷 Dashboard Preview
-Example:https://github.com/janvinanaware54/Ride-Booking-Sales-Analysis-Dashboard/blob/main/Ride%20booking%20sales%20dashboard.png
+Example:[Dashboard Preview](https://github.com/janvinanaware54/Ride-Booking-Sales-Analysis-Dashboard/blob/main/Ride%20booking%20sales%20dashboard.png)
 
